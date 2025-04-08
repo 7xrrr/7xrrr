@@ -1,5 +1,5 @@
-<h1 align="center" style="color: black;">Hi 👋, I'm Alaa aka 7xr</h1>
-<h3 align="center" style="color: black;">Self-taught developer, always learning and building cool things 💻</h3>
+<h1 align="center" style="color: white;">Hi 👋, I'm Alaa aka 7xr</h1>
+<h3 align="center" style="color: white;">Self-taught developer, always learning and building cool things 💻</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=7xrrr&label=Profile%20views&color=0e75b6&style=flat" alt="7xrrr" />
@@ -31,6 +31,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=gdOksUo2UvLH&format=png&color=000000" alt="FiveM" width="40" height="40"/>
+  <img src="http://media.moddb.com/images/downloads/1/47/46326/mtasa.png" alt="MTA:SA" width="50" height="40"/>
 </p>
 
 ---
@@ -38,9 +40,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7xrrr&show_icons=true&theme=default&hide_border=true" alt="7xrrr's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=7xrrr&show_icons=true&theme=tokyonight&hide_border=true" alt="7xrrr's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7xrrr&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7xrrr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -48,7 +50,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7xrrr&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7xrrr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -56,7 +58,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=7xrrr&theme=default&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=7xrrr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -64,7 +66,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/7xrrr/7xrrr/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/7xrrr/7xrrr/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -72,8 +74,8 @@
 ## 📈 Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7xrrr&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7xrrr&theme=default&utcOffset=+3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7xrrr&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7xrrr&theme=tokyonight&utcOffset=+3" />
 </p>
 
 ---
